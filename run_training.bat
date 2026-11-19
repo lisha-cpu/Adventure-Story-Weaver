@@ -1,0 +1,1 @@
+@echo off\npython train.py --steps 1500\npause\n

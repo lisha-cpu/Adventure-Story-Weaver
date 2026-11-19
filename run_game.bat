@@ -1,0 +1,1 @@
+@echo off\npython generate.py\npause\n
